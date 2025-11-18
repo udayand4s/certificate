@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "lib/overlayName.js", "app/page.jsx", "app/layout.tsx", "app/api/verify-email/route.js", "app/api/generate-certificate/route.js"  ],
   "exclude": ["node_modules"]
 }
